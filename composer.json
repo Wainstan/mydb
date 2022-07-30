@@ -3,5 +3,6 @@
     "description": "My old simple MySQL DB class",
     "require": {
         "php": ">=5.4"
-    }
+    },
+    "minimum-stability": "stable"
 }
