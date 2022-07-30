@@ -4,5 +4,10 @@
     "require": {
         "php": ">=7.4"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "abelar\\mydb\\": "src"
+        }
+    }
 }
