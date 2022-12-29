@@ -7,7 +7,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "abelar\\mydb\\": "src\"
+            "abelar\\mydb\\": "src"
         }
     }
 }
