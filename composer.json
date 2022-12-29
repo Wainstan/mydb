@@ -1,6 +1,5 @@
 {
     "name": "abelar/mydb",
-    "version": "v1.0",
     "description": "My old simple MySQL DB class",
     "require": {
         "php": ">=7.4"
