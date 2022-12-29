@@ -5,7 +5,6 @@
     "require": {
         "php": ">=7.4"
     },
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "abelar\\mydb\\": "src"
