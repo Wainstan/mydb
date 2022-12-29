@@ -1,4 +1,6 @@
 <?
+namespace abelar\mydb;
+
 class db {
 	public $host = 'localhost';
 	public $user = '';
